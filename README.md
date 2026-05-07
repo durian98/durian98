@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <em>Aspiring Developer · Algorithm Enthusiast · Lifelong Learner</em>
-</p>
-
-<p align="center">
   <a href="https://github.com/jajason02">
     <img src="https://img.shields.io/badge/GitHub-jajason02-181717?style=flat-square&logo=github" />
   </a>
@@ -70,6 +66,15 @@
 
 ---
 
+
+### [ToyProject](https://github.com/jajason02/toyproject)
+개인 토이 프로젝트 모음
+
+| 폴더 | 설명 |
+|:---|:---|
+| [`algoalgo_chatbot/`](https://github.com/jajason02/toyproject/tree/main/algoalgo_chatbot) | 스터디 출석 관리 Discord 봇 |
+
+---
 ## GitHub Stats
 
 <p align="center">
@@ -94,7 +99,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <em>"가독성 우선, 효율성 체크, 기록의 힘"</em>
-</p>
