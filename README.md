@@ -74,8 +74,7 @@
 |:---|:---|:---|
 | [`algoalgo_chatbot/`](https://github.com/jajason02/toyproject/tree/main/algoalgo_chatbot) | 스터디 출석 관리 Discord 봇 | python |
 | [`money_hero/`](https://github.com/jajason02/toyproject/tree/main/money_hero) | 스터디 출석 관리 Discord 봇 | Django, Vue.js, Gemini API |
-| [`todoapi/`](https://github.com/jajason02/toyproject/tree/main/todoapi) | 할 일 목록 만들기 |
-spring, MySQL |
+| [`todoapi/`](https://github.com/jajason02/toyproject/tree/main/todoapi) | 할 일 목록 만들기 | spring, MySQL |
 ---
 ## GitHub Stats
 
