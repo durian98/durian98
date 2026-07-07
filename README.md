@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hey, I'm <a href="https://github.com/jajason02">Jaehyeon Park</a>
+  Hey, I'm <a href="https://github.com/durian98">Jaehyeon Park</a>
 </h1>
 
 <p align="center">
-  <a href="https://github.com/jajason02">
+  <a href="https://github.com/durian98">
     <img src="https://img.shields.io/badge/GitHub-jajason02-181717?style=flat-square&logo=github" />
   </a>
 </p>
